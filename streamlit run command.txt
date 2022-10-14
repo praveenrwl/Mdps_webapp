@@ -1,0 +1,1 @@
+streamlit run "D:\2022\Course\SIH\Mdps\Md\multiple_disease_pred.py"
